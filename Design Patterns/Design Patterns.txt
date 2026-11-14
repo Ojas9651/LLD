@@ -1,0 +1,20 @@
+Design Patterns
+
+What are design patterns ?
+
+Ans : 
+
+These are the pre defined solution of the problems that come up during building a software pr application
+
+There are officially 23 design patterns.
+
+-------------------
+
+Every design patterns basically says following :
+
+ Application has 2 parts 
+
+1. Static
+2. Dynamic
+
+Separate the dynamic part from static part
